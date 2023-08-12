@@ -18,7 +18,7 @@ The website also has a navigation bar that allows users to easily access the dif
 **Disclaimer:** This website is a clone of a school website that does not exist and is not affiliated with any real school.
 
 #### Demo : 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/35CFh96NPL0).
 
 
 ## Tech Stack
