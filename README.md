@@ -6,9 +6,18 @@
 This School Website project describes about a school that believes in the power of education to change lives. The website is divided into the following sections:
 
 - **Homepage:** The homepage tells about the school's belief.
+  
+  ![screenshot](SchoolWebsite.png)
+  
 - **Mission**: The mission section describes the school's mission statement.
 - **About**: The about section provides more information about the school, such as its history, curriculum, and faculty.
+
+  ![screenshot](School%20Website(2).png)
+  
 - **Upcoming Events**: The upcoming events section lists the school's upcoming events, such as parent-teacher conferences, school activities and field trips.
+
+  ![screenshot](School%20Website(3).png)
+  
 - **Enrollment**: The enrollment section provides information on how to enroll your child in the school.
 - **Gallery**: The gallery section displays photos of the school and its students.
 - **Blog**: The blog section features articles about the school, its students, and its faculty.
@@ -18,7 +27,7 @@ The website also has a navigation bar that allows users to easily access the dif
 **Disclaimer:** This website is a clone of a school website that does not exist and is not affiliated with any real school.
 
 #### Demo : 
-Click the images above or watch the demo video on [YouTube](https://youtu.be/35CFh96NPL0).
+Watch the demo video on [YouTube](https://youtu.be/35CFh96NPL0).
 
 
 ## Tech Stack
