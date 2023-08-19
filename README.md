@@ -36,3 +36,5 @@ Watch the demo video on [YouTube](https://youtu.be/35CFh96NPL0).
 
 **IDE:** Visual Studio Code
 
+#### Visit Website: https://school-website-kvs.netlify.app/
+
